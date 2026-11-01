@@ -19,7 +19,7 @@ jobs:
       - name: Pull latest posts from blog RSS
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://z1934642491-eng.github.io/My-Blog/feed.xml"
+          feed_list: "https://zhongjiawei-dev.github.io/My-Blog/feed.xml"
           max_post_count: 5
           readme_path: ./README.md
           comment_tag_name: "BLOG-POST-LIST"
