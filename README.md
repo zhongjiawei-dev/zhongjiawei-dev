@@ -52,9 +52,9 @@
 
 | 项目 | 说明 | 技术要点 |
 | :--- | :--- | :--- |
-| **[P2P 借贷系统 · 测试实践](https://github.com/z1934642491-eng)** | 覆盖注册登录、借款、投标、还款、账户流水的金融 Web 系统，独立完成功能 / 接口 / 数据三层验证 | 用例设计 60+ · 接口校验 20+ · 多表 SQL 核对 |
-| **[ECSHOP 电商后台 · UI 自动化](https://github.com/z1934642491-eng)** | 把登录等核心流程从人工回归转为脚本执行，回归耗时降至分钟级 | Python · Selenium · pytest · POM · Allure |
-| **[My-Blog 个人博客](https://github.com/z1934642491-eng/My-Blog)** | 手写 HTML/CSS/JS 的技术博客，收录接口测试、自动化与数据库核对实践 | 零构建依赖 · 暗色主题 · 响应式 · GitHub Pages |
+| **[P2P 借贷系统 · 测试实践](https://z1934642491-eng.github.io/My-Blog/posts/api-test-postman-jmeter.html)** | 覆盖注册登录、借款、投标、还款、账户流水的金融 Web 系统，独立完成功能 / 接口 / 数据三层验证 | 用例设计 60+ · 接口校验 20+ · 多表 SQL 核对 |
+| **[ECSHOP 电商后台 · UI 自动化](https://z1934642491-eng.github.io/My-Blog/posts/selenium-pom-framework.html)** | 把登录等核心流程从人工回归转为脚本执行，回归耗时降至分钟级 | Python · Selenium · pytest · POM · Allure |
+| **[My-Blog 个人博客](https://z1934642491-eng.github.io/My-Blog/)** | 手写 HTML/CSS/JS 的技术博客，收录接口测试、自动化与数据库核对实践 | 零构建依赖 · 暗色主题 · 响应式 · GitHub Pages |
 | **[z1934642491-eng（本仓库）](https://github.com/z1934642491-eng/z1934642491-eng)** | GitHub 个人主页，项目索引 + 博客文章自动同步 | Markdown · GitHub Actions |
 
 <br />
