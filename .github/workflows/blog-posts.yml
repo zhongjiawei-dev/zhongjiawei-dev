@@ -23,6 +23,6 @@ jobs:
           max_post_count: 5
           readme_path: ./README.md
           comment_tag_name: "BLOG-POST-LIST"
-          template: "- [$title]($url) — $date"
+          template: "- [$title]($url) — $date$newline"
           date_format: "yyyy-mm-dd"
           commit_message: "chore: sync latest blog posts"
