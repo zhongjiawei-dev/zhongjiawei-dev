@@ -17,6 +17,7 @@
 > 遇到问题先抓包、看日志、跑 SQL，能自己定界就不把「复现不了」丢给开发。
 
 - 🔍 目前专注：**功能测试 · 接口测试 · 数据库验证 · Web 自动化**
+- 🎓 已取得 **信息处理技术员**（计算机技术与软件专业技术资格 · 初级），2025.05
 - 🧪 在 P2P 借贷系统里设计过 **60+ 条用例**，用 Postman 校验 **20+ 个核心接口**
 - 🤖 用 **Python + Selenium + pytest + Allure** 搭过 POM 分层 + 数据驱动的 UI 自动化框架
 - 🗄️ 会用 MySQL 多表 JOIN 核对金额与流水，定位过「界面正常但数据不一致」的缺陷
@@ -50,12 +51,12 @@
 
 ## 🚧 项目展示
 
-| 项目 | 说明 | 技术要点 |
-| :--- | :--- | :--- |
-| **[P2P 借贷系统 · 测试实践](https://zhongjiawei-dev.github.io/My-Blog/posts/api-test-postman-jmeter.html)** | 覆盖注册登录、借款、投标、还款、账户流水的金融 Web 系统，独立完成功能 / 接口 / 数据三层验证 | 用例设计 60+ · 接口校验 20+ · 多表 SQL 核对 |
-| **[ECSHOP 电商后台 · UI 自动化](https://zhongjiawei-dev.github.io/My-Blog/posts/selenium-pom-framework.html)** | 把登录等核心流程从人工回归转为脚本执行，回归耗时降至分钟级 | Python · Selenium · pytest · POM · Allure |
-| **[My-Blog 个人博客](https://zhongjiawei-dev.github.io/My-Blog/)** | 手写 HTML/CSS/JS 的技术博客，收录接口测试、自动化与数据库核对实践 | 零构建依赖 · 暗色主题 · 响应式 · GitHub Pages |
-| **[zhongjiawei-dev（本仓库）](https://github.com/zhongjiawei-dev/zhongjiawei-dev)** | GitHub 个人主页，项目索引 + 博客文章自动同步 | Markdown · GitHub Actions |
+| 项目 | 时间 | 说明 | 技术要点 |
+| :--- | :--- | :--- | :--- |
+| **[P2P 借贷系统 · 测试实践](https://zhongjiawei-dev.github.io/My-Blog/posts/api-test-postman-jmeter.html)** | 2025.09 — 2025.12 | 覆盖注册登录、借款、投标、还款、账户流水的金融 Web 系统，独立完成功能 / 接口 / 数据三层验证 | 用例设计 60+ · 接口校验 20+ · 多表 SQL 核对 |
+| **[ECSHOP 电商后台 · UI 自动化](https://zhongjiawei-dev.github.io/My-Blog/posts/selenium-pom-framework.html)** | 2026.03 — 2026.06 | 把登录等核心流程从人工回归转为脚本执行，回归耗时降至分钟级 | Python · Selenium · pytest · POM · Allure |
+| **[My-Blog 个人博客](https://zhongjiawei-dev.github.io/My-Blog/)** | 2026.10 起 | 手写 HTML/CSS/JS 的技术博客，收录接口测试、自动化与数据库核对实践 | 零构建依赖 · 暗色主题 · 响应式 · GitHub Pages |
+| **[zhongjiawei-dev（本仓库）](https://github.com/zhongjiawei-dev/zhongjiawei-dev)** | 2026.10 起 | GitHub 个人主页，项目索引 + 博客文章自动同步 | Markdown · GitHub Actions |
 
 <br />
 
