@@ -4,7 +4,7 @@
 
 <br />
 
-<a href="https://z1934642491-eng.github.io/My-Blog/"><img src="https://img.shields.io/badge/Blog-z1934642491-eng.github.io-6366f1?style=flat-square&logo=googlescholar&logoColor=white" alt="blog" /></a>
+<a href="https://z1934642491-eng.github.io/My-Blog/"><img src="https://img.shields.io/badge/Blog-z1934642491--eng.github.io-6366f1?style=flat-square&logo=rss&logoColor=white" alt="blog" /></a>
 <img src="https://img.shields.io/badge/Focus-%E5%8A%9F%E8%83%BD%20%C2%B7%20%E6%8E%A5%E5%8F%A3%20%C2%B7%20%E8%87%AA%E5%8A%A8%E5%8C%96-22d3ee?style=flat-square" alt="focus" />
 <img src="https://img.shields.io/badge/Class%20of-2027-8b5cf6?style=flat-square" alt="class" />
 <img src="https://komarev.com/ghpvc/?username=z1934642491-eng&style=flat-square&color=6366f1" alt="visitors" />
