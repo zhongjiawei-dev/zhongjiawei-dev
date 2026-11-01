@@ -24,5 +24,6 @@ jobs:
           readme_path: ./README.md
           comment_tag_name: "BLOG-POST-LIST"
           template: "- [$title]($url) — $date$newline"
+          tag_post_pre_newline: true
           date_format: "yyyy-mm-dd"
           commit_message: "chore: sync latest blog posts"
