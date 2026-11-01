@@ -4,10 +4,10 @@
 
 <br />
 
-<a href="https://z1934642491-eng.github.io/My-Blog/"><img src="https://img.shields.io/badge/Blog-z1934642491--eng.github.io-6366f1?style=flat-square&logo=rss&logoColor=white" alt="blog" /></a>
+<a href="https://zhongjiawei-dev.github.io/My-Blog/"><img src="https://img.shields.io/badge/Blog-zhongjiawei--dev.github.io-6366f1?style=flat-square&logo=rss&logoColor=white" alt="blog" /></a>
 <img src="https://img.shields.io/badge/Focus-%E5%8A%9F%E8%83%BD%20%C2%B7%20%E6%8E%A5%E5%8F%A3%20%C2%B7%20%E8%87%AA%E5%8A%A8%E5%8C%96-22d3ee?style=flat-square" alt="focus" />
 <img src="https://img.shields.io/badge/Class%20of-2027-8b5cf6?style=flat-square" alt="class" />
-<img src="https://komarev.com/ghpvc/?username=z1934642491-eng&style=flat-square&color=6366f1" alt="visitors" />
+<img src="https://komarev.com/ghpvc/?username=zhongjiawei-dev&style=flat-square&color=6366f1" alt="visitors" />
 
 </div>
 
@@ -20,7 +20,7 @@
 - 🧪 在 P2P 借贷系统里设计过 **60+ 条用例**，用 Postman 校验 **20+ 个核心接口**
 - 🤖 用 **Python + Selenium + pytest + Allure** 搭过 POM 分层 + 数据驱动的 UI 自动化框架
 - 🗄️ 会用 MySQL 多表 JOIN 核对金额与流水，定位过「界面正常但数据不一致」的缺陷
-- 📝 把测试实践写在博客里：[z1934642491-eng.github.io/My-Blog](https://z1934642491-eng.github.io/My-Blog/)
+- 📝 把测试实践写在博客里：[zhongjiawei-dev.github.io/My-Blog](https://zhongjiawei-dev.github.io/My-Blog/)
 - 📫 联系方式：**15216200398@163.com**
 
 <br />
@@ -52,24 +52,24 @@
 
 | 项目 | 说明 | 技术要点 |
 | :--- | :--- | :--- |
-| **[P2P 借贷系统 · 测试实践](https://z1934642491-eng.github.io/My-Blog/posts/api-test-postman-jmeter.html)** | 覆盖注册登录、借款、投标、还款、账户流水的金融 Web 系统，独立完成功能 / 接口 / 数据三层验证 | 用例设计 60+ · 接口校验 20+ · 多表 SQL 核对 |
-| **[ECSHOP 电商后台 · UI 自动化](https://z1934642491-eng.github.io/My-Blog/posts/selenium-pom-framework.html)** | 把登录等核心流程从人工回归转为脚本执行，回归耗时降至分钟级 | Python · Selenium · pytest · POM · Allure |
-| **[My-Blog 个人博客](https://z1934642491-eng.github.io/My-Blog/)** | 手写 HTML/CSS/JS 的技术博客，收录接口测试、自动化与数据库核对实践 | 零构建依赖 · 暗色主题 · 响应式 · GitHub Pages |
-| **[z1934642491-eng（本仓库）](https://github.com/z1934642491-eng/z1934642491-eng)** | GitHub 个人主页，项目索引 + 博客文章自动同步 | Markdown · GitHub Actions |
+| **[P2P 借贷系统 · 测试实践](https://zhongjiawei-dev.github.io/My-Blog/posts/api-test-postman-jmeter.html)** | 覆盖注册登录、借款、投标、还款、账户流水的金融 Web 系统，独立完成功能 / 接口 / 数据三层验证 | 用例设计 60+ · 接口校验 20+ · 多表 SQL 核对 |
+| **[ECSHOP 电商后台 · UI 自动化](https://zhongjiawei-dev.github.io/My-Blog/posts/selenium-pom-framework.html)** | 把登录等核心流程从人工回归转为脚本执行，回归耗时降至分钟级 | Python · Selenium · pytest · POM · Allure |
+| **[My-Blog 个人博客](https://zhongjiawei-dev.github.io/My-Blog/)** | 手写 HTML/CSS/JS 的技术博客，收录接口测试、自动化与数据库核对实践 | 零构建依赖 · 暗色主题 · 响应式 · GitHub Pages |
+| **[zhongjiawei-dev（本仓库）](https://github.com/zhongjiawei-dev/zhongjiawei-dev)** | GitHub 个人主页，项目索引 + 博客文章自动同步 | Markdown · GitHub Actions |
 
 <br />
 
 ## 📝 最新文章
 
 <!-- BLOG-POST-LIST:START -->
-- [Postman 到 JMeter：一次完整的接口测试链路](https://z1934642491-eng.github.io/My-Blog/posts/api-test-postman-jmeter.html) — 2026-10-18
-- [用 POM + 数据驱动重构登录脚本](https://z1934642491-eng.github.io/My-Blog/posts/selenium-pom-framework.html) — 2026-10-09
-- [界面显示正确，数据库却对不上：SQL 核对的四个切入点](https://z1934642491-eng.github.io/My-Blog/posts/mysql-data-verify.html) — 2026-09-26
-- [一个合格的缺陷单，应该让开发无法反问](https://z1934642491-eng.github.io/My-Blog/posts/defect-triage.html) — 2026-09-12
+- [Postman 到 JMeter：一次完整的接口测试链路](https://zhongjiawei-dev.github.io/My-Blog/posts/api-test-postman-jmeter.html) — 2026-10-18
+- [用 POM + 数据驱动重构登录脚本](https://zhongjiawei-dev.github.io/My-Blog/posts/selenium-pom-framework.html) — 2026-10-09
+- [界面显示正确，数据库却对不上：SQL 核对的四个切入点](https://zhongjiawei-dev.github.io/My-Blog/posts/mysql-data-verify.html) — 2026-09-26
+- [一个合格的缺陷单，应该让开发无法反问](https://zhongjiawei-dev.github.io/My-Blog/posts/defect-triage.html) — 2026-09-12
 
 <!-- BLOG-POST-LIST:END -->
 
-<a href="https://z1934642491-eng.github.io/My-Blog/">👉 查看全部文章</a>
+<a href="https://zhongjiawei-dev.github.io/My-Blog/">👉 查看全部文章</a>
 
 <br />
 
@@ -77,12 +77,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=z1934642491-eng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=22D3EE&text_color=C9D1D9&locale=cn" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z1934642491-eng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9&langs_count=6" alt="langs" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=zhongjiawei-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=22D3EE&text_color=C9D1D9&locale=cn" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhongjiawei-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9&langs_count=6" alt="langs" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=z1934642491-eng&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=818CF8&fire=22D3EE&currStreakLabel=818CF8" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=zhongjiawei-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=818CF8&fire=22D3EE&currStreakLabel=818CF8" alt="streak" />
 
 </div>
 
@@ -93,9 +93,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/z1934642491-eng/z1934642491-eng/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/z1934642491-eng/z1934642491-eng/output/github-contribution-grid-snake.svg" />
-  <img alt="贡献蛇形图" src="https://raw.githubusercontent.com/z1934642491-eng/z1934642491-eng/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhongjiawei-dev/zhongjiawei-dev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhongjiawei-dev/zhongjiawei-dev/output/github-contribution-grid-snake.svg" />
+  <img alt="贡献蛇形图" src="https://raw.githubusercontent.com/zhongjiawei-dev/zhongjiawei-dev/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -111,7 +111,7 @@
 <br /><br />
 
 <a href="mailto:15216200398@163.com"><img src="https://img.shields.io/badge/Email-15216200398%40163.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-<a href="https://z1934642491-eng.github.io/My-Blog/"><img src="https://img.shields.io/badge/Blog-%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0-6366F1?style=for-the-badge&logo=rss&logoColor=white" alt="blog" /></a>
+<a href="https://zhongjiawei-dev.github.io/My-Blog/"><img src="https://img.shields.io/badge/Blog-%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0-6366F1?style=for-the-badge&logo=rss&logoColor=white" alt="blog" /></a>
 <a href="tel:15216200398"><img src="https://img.shields.io/badge/Phone-15216200398-10B981?style=for-the-badge&logo=whatsapp&logoColor=white" alt="phone" /></a>
 
 <br /><br />

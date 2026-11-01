@@ -1,6 +1,6 @@
 # 维护手册
 
-这个目录是 **GitHub 个人主页仓库** 的源码，已经上线在 <https://github.com/z1934642491-eng>。
+这个目录是 **GitHub 个人主页仓库** 的源码，已经上线在 <https://github.com/zhongjiawei-dev>。
 
 GitHub 的机制：仓库名与用户名完全一致时，仓库里的 `README.md` 会渲染在个人主页顶部。仓库名一旦改动，这个效果就没了。
 
@@ -10,9 +10,9 @@ GitHub 的机制：仓库名与用户名完全一致时，仓库里的 `README.m
 
 | 项目 | 地址 | 说明 |
 |---|---|---|
-| 个人主页 | <https://github.com/z1934642491-eng> | README 已渲染，含 typing 头部、技能墙、项目表、自动同步的文章列表 |
-| 技术博客 | <https://z1934642491-eng.github.io/My-Blog/> | GitHub Pages，`main` 分支根目录发布 |
-| 博客仓库 | <https://github.com/z1934642491-eng/My-Blog> | 静态站源码 |
+| 个人主页 | <https://github.com/zhongjiawei-dev> | README 已渲染，含 typing 头部、技能墙、项目表、自动同步的文章列表 |
+| 技术博客 | <https://zhongjiawei-dev.github.io/My-Blog/> | GitHub Pages，`main` 分支根目录发布 |
+| 博客仓库 | <https://github.com/zhongjiawei-dev/My-Blog> | 静态站源码 |
 
 首次部署已完成，不需要再走一遍建仓流程。
 
@@ -47,14 +47,18 @@ GitHub 的机制：仓库名与用户名完全一致时，仓库里的 `README.m
 
 ---
 
-## 四、如果要改 GitHub 用户名
+## 四、用户名变更记录
 
-`z1934642491-eng` 这个账号名会出现在所有徽章和链接里。改名后 GitHub 会保留旧地址重定向，但有两件事要跟着改：
+当前用户名：**`zhongjiawei-dev`**（2026-11-01 由 `z1934642491-eng` 改来）。
 
-1. 两个仓库里的所有硬编码用户名（README 徽章、stats 卡片、feed.xml 的 `<link>`、博客页脚）
-2. 仓库 `z1934642491-eng` 本身要改名成新用户名，否则主页 README 不再显示
+改名只能在网页端做：**Settings → Account → Change username**。GitHub 的 REST API 没有提供改名接口，脚本替不了这一步。
 
-改完刷新 Pages 即可，`zhongjiawei.github.io` 这类地址会自动跟着变。
+改完必须同步两件事，否则页面会指错地方：
+
+1. 仓库里的硬编码用户名 —— README 徽章、stats 卡片、`feed.xml` 的 `<link>`、`sitemap.xml`、每页的 `canonical` / `og:url`、博客页脚
+2. 主页仓库本身要改名成新用户名（`z1934642491-eng` → `zhongjiawei-dev`），否则主页 README 不再渲染
+
+旧地址 GitHub 会给一段时间重定向，但不保证长期有效，别把旧域名当正餐留着。新的项目站点地址是 `zhongjiawei-dev.github.io/My-Blog/`。
 
 ---
 
@@ -65,8 +69,8 @@ GitHub 的机制：仓库名与用户名完全一致时，仓库里的 `README.m
 例如：
 
 ```text
-❌ img.shields.io/badge/Blog-z1934642491-eng.github.io-6366f1
-✅ img.shields.io/badge/Blog-z1934642491--eng.github.io-6366f1
+❌ img.shields.io/badge/Blog-zhongjiawei-dev.github.io-6366f1
+✅ img.shields.io/badge/Blog-zhongjiawei--dev.github.io-6366f1
 ```
 
 中文和 `@` 等其他特殊字符用 URL 编码（`%E4%B8%AD`、`%40`）。
