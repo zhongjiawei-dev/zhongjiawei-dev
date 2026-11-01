@@ -61,10 +61,12 @@
 
 ## 📝 最新文章
 
-<!-- BLOG-POST-LIST:START -->- [Postman 到 JMeter：一次完整的接口测试链路](https://z1934642491-eng.github.io/My-Blog/posts/api-test-postman-jmeter.html) — 2026-10-18
+<!-- BLOG-POST-LIST:START -->
+- [Postman 到 JMeter：一次完整的接口测试链路](https://z1934642491-eng.github.io/My-Blog/posts/api-test-postman-jmeter.html) — 2026-10-18
 - [用 POM + 数据驱动重构登录脚本](https://z1934642491-eng.github.io/My-Blog/posts/selenium-pom-framework.html) — 2026-10-09
 - [界面显示正确，数据库却对不上：SQL 核对的四个切入点](https://z1934642491-eng.github.io/My-Blog/posts/mysql-data-verify.html) — 2026-09-26
 - [一个合格的缺陷单，应该让开发无法反问](https://z1934642491-eng.github.io/My-Blog/posts/defect-triage.html) — 2026-09-12
+
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://z1934642491-eng.github.io/My-Blog/">👉 查看全部文章</a>
