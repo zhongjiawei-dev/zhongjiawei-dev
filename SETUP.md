@@ -1,6 +1,6 @@
 # 部署与启用说明
 
-这个目录是 **GitHub 个人主页仓库** 的源码，对应 `github.com/zhongjiawei/zhongjiawei`。
+这个目录是 **GitHub 个人主页仓库** 的源码，对应 `github.com/z1934642491-eng/z1934642491-eng`。
 
 GitHub 有一个特殊机制：当仓库名与用户名完全一致时，仓库里的 `README.md` 会显示在你的个人主页顶部。
 
@@ -9,7 +9,7 @@ GitHub 有一个特殊机制：当仓库名与用户名完全一致时，仓库�
 ## 一、创建仓库
 
 1. 打开 <https://github.com/new>
-2. **Repository name** 填 `zhongjiawei`（必须和用户名完全一致，大小写也要一致）
+2. **Repository name** 填 `z1934642491-eng`（必须和用户名完全一致，大小写也要一致）
 3. 勾选 **Public**，勾选 **Add a README file**（避免空仓库报错）
 4. 创建后，把本目录的 `README.md` 与 `.github/` 一起上传覆盖
 
@@ -21,11 +21,11 @@ git init
 git add .
 git commit -m "feat: init profile README"
 git branch -M main
-git remote add origin https://github.com/zhongjiawei/zhongjiawei.git
+git remote add origin https://github.com/z1934642491-eng/z1934642491-eng.git
 git push -u origin main
 ```
 
-推上去之后刷新 <https://github.com/zhongjiawei>，README 就会出现在主页顶部。
+推上去之后刷新 <https://github.com/z1934642491-eng>，README 就会出现在主页顶部。
 
 ---
 
@@ -57,11 +57,11 @@ README 里的 `<picture>` 已经指向这两个地址，不需要改。
 
 | 位置 | 当前值 | 说明 |
 | :--- | :--- | :--- |
-| 用户名 | `zhongjiawei` | 出现在所有徽章、统计卡片、Actions 配置里，如与实际不符需全局替换 |
-| 博客地址 | `https://zhongjiawei.github.io/My-Blog/` | 若改了仓库名，这里和 `feed.xml` 都要同步 |
+| 用户名 | `z1934642491-eng` | 出现在所有徽章、统计卡片、Actions 配置里，如与实际不符需全局替换 |
+| 博客地址 | `https://z1934642491-eng.github.io/My-Blog/` | 若改了仓库名，这里和 `feed.xml` 都要同步 |
 | 邮箱 | `15216200398@163.com` | 来自简历 |
 | 电话 | `15216200398` | 来自简历；如果不想公开，删掉 README 底部那个 Phone 徽章即可 |
-| 项目链接 | 均指向 `github.com/zhongjiawei` | 等 P2P / ECSHOP 项目整理成仓库后，换成具体仓库地址 |
+| 项目链接 | 均指向 `github.com/z1934642491-eng` | 等 P2P / ECSHOP 项目整理成仓库后，换成具体仓库地址 |
 
 ---
 
