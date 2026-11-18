@@ -18,8 +18,8 @@
 
 - 🔍 目前专注：**功能测试 · 接口测试 · 数据库验证 · Web 自动化**
 - 🎓 已取得 **信息处理技术员**（计算机技术与软件专业技术资格 · 初级），2025.05
-- 🧪 在 P2P 借贷系统里设计过 **60+ 条用例**，用 Postman 校验 **20+ 个核心接口**
-- 🤖 用 **Python + Selenium + pytest + Allure** 搭过 POM 分层 + 数据驱动的 UI 自动化框架
+- 🧪 在校园快递代取平台设计过 **80+ 条用例**，用 Postman 校验 **22 个接口**
+- 🤖 用 **Python + Selenium + pytest + Allure** 搭过手机商城的 POM 分层 + YAML 数据驱动自动化，45 条用例通过率 95.6%
 - 🗄️ 会用 MySQL 多表 JOIN 核对金额与流水，定位过「界面正常但数据不一致」的缺陷
 - 📝 把测试实践写在博客里：[zhongjiawei-dev.github.io/My-Blog](https://zhongjiawei-dev.github.io/My-Blog/)
 - 📫 联系方式：**15216200398@163.com**
@@ -51,26 +51,18 @@
 
 ## 🚧 项目展示
 
-| 项目 | 时间 | 说明 | 技术要点 |
-| :--- | :--- | :--- | :--- |
-| **[P2P 借贷系统 · 测试实践](https://zhongjiawei-dev.github.io/My-Blog/posts/api-test-postman-jmeter.html)** | 2025.09 — 2025.12 | 覆盖注册登录、借款、投标、还款、账户流水的金融 Web 系统，独立完成功能 / 接口 / 数据三层验证 | 用例设计 60+ · 接口校验 20+ · 多表 SQL 核对 |
-| **[ECSHOP 电商后台 · UI 自动化](https://zhongjiawei-dev.github.io/My-Blog/posts/selenium-pom-framework.html)** | 2026.03 — 2026.06 | 把登录等核心流程从人工回归转为脚本执行，回归耗时降至分钟级 | Python · Selenium · pytest · POM · Allure |
-| **[My-Blog 个人博客](https://zhongjiawei-dev.github.io/My-Blog/)** | 2026.10 起 | 手写 HTML/CSS/JS 的技术博客，收录接口测试、自动化与数据库核对实践 | 零构建依赖 · 暗色主题 · 响应式 · GitHub Pages |
-| **[zhongjiawei-dev（本仓库）](https://github.com/zhongjiawei-dev/zhongjiawei-dev)** | 2026.10 起 | GitHub 个人主页，项目索引 + 博客文章自动同步 | Markdown · GitHub Actions |
+| 项目 | 说明 | 技术要点 |
+| :--- | :--- | :--- |
+| **[校园快递代取平台 · 接口与数据测试](https://github.com/zhongjiawei-dev/campus-express-test)** | 自己写的校园代取服务端，覆盖下单、接单、配送、签收、评价与信用分流转；22 个接口、113 条 pytest 用例，订单节点写哈希存证 | pytest · requests · Postman · MySQL 多表核对 · 哈希校验 |
+| **[手机商城系统 · UI 自动化](https://github.com/zhongjiawei-dev/phone-mall-selenium)** | Flask 练习站 + Selenium 自动化，覆盖登录、搜索、购物车、下单、支付 5 条链路；POM 分层、YAML 数据驱动、失败重跑与截图 | Python · Selenium · pytest · POM · Allure |
+| **[My-Blog 个人博客](https://zhongjiawei-dev.github.io/My-Blog/)** | 手写 HTML/CSS/JS 的技术博客，记录接口测试、自动化与数据库核对过程 | 零构建依赖 · 暗色主题 · 响应式 · GitHub Pages |
+| **[zhongjiawei-dev（本仓库）](https://github.com/zhongjiawei-dev/zhongjiawei-dev)** | GitHub 个人主页，项目索引与技术笔记入口 | Markdown · GitHub Actions |
 
 <br />
 
-## 📝 最新文章
+## 📝 技术笔记
 
-<!-- BLOG-POST-LIST:START -->
-- [Postman 到 JMeter：一次完整的接口测试链路](https://zhongjiawei-dev.github.io/My-Blog/posts/api-test-postman-jmeter.html) — 2026-10-18
-- [用 POM + 数据驱动重构登录脚本](https://zhongjiawei-dev.github.io/My-Blog/posts/selenium-pom-framework.html) — 2026-10-09
-- [界面显示正确，数据库却对不上：SQL 核对的四个切入点](https://zhongjiawei-dev.github.io/My-Blog/posts/mysql-data-verify.html) — 2026-09-26
-- [一个合格的缺陷单，应该让开发无法反问](https://zhongjiawei-dev.github.io/My-Blog/posts/defect-triage.html) — 2026-09-12
-
-<!-- BLOG-POST-LIST:END -->
-
-<a href="https://zhongjiawei-dev.github.io/My-Blog/">👉 查看全部文章</a>
+测试过程、缺陷复盘和工具使用都放在博客里：[zhongjiawei-dev.github.io/My-Blog](https://zhongjiawei-dev.github.io/My-Blog/)
 
 <br />
 
