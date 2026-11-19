@@ -13,15 +13,14 @@
 
 ## 🧑‍💻 关于我
 
-> 区块链技术本科在读，方向是**软件测试**。习惯先用「预期 vs 实际」把需求拆成可验证的测试点，再动手设计用例；
-> 遇到问题先抓包、看日志、跑 SQL，能自己定界就不把「复现不了」丢给开发。
+> 我是钟嘉伟，江西软件职业技术大学区块链技术专业 2027 届。平时用 Python 写后端和 Web 应用，做过校园快递代取平台和青禾手机商城两个完整项目；遇到问题先看日志、SQL 和接口返回，再改代码。目前求职方向是软件测试，也在补接口自动化和性能测试。
 
 - 🔍 目前专注：**功能测试 · 接口测试 · 数据库验证 · Web 自动化**
 - 🎓 已取得 **信息处理技术员**（计算机技术与软件专业技术资格 · 初级），2025.05
 - 🧱 独立完成校园快递代取平台后端：**22 个接口**、订单状态机、Token 鉴权、钱包流水与哈希存证
 - 🛒 独立完成青禾手机商城 Web 应用：**Flask + Jinja2**，购物车、结算、VIP 折扣、订单支付与库存扣减
-- 🗄️ 会用 MySQL 多表 JOIN 核对金额与流水，定位过「界面正常但数据不一致」的缺陷
-- 📝 把测试实践写在博客里：[zhongjiawei-dev.github.io/My-Blog](https://zhongjiawei-dev.github.io/My-Blog/)
+- 🗄️ 项目里用 MariaDB 存订单、钱包和流水，写过建表 SQL、事务和金额对账
+- 📝 开发和学习记录放在博客里：[zhongjiawei-dev.github.io/My-Blog](https://zhongjiawei-dev.github.io/My-Blog/)
 - 📫 联系方式：**15216200398@163.com**
 
 <br />
@@ -62,7 +61,7 @@
 
 ## 📝 技术笔记
 
-测试过程、缺陷复盘和工具使用都放在博客里：[zhongjiawei-dev.github.io/My-Blog](https://zhongjiawei-dev.github.io/My-Blog/)
+开发中遇到的问题、接口调试和测试记录都放在博客里：[zhongjiawei-dev.github.io/My-Blog](https://zhongjiawei-dev.github.io/My-Blog/)
 
 <br />
 
