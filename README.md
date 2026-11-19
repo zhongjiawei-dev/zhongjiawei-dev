@@ -17,7 +17,7 @@
 
 - 🔍 目前专注：**功能测试 · 接口测试 · 数据库验证 · Web 自动化**
 - 🎓 已取得 **信息处理技术员**（计算机技术与软件专业技术资格 · 初级），2025.05
-- 🧱 独立完成校园快递代取平台后端：**22 个接口**、订单状态机、Token 鉴权、钱包流水与哈希存证
+- 🧱 独立完成校园快递代取平台：**浏览器工作台 + 22 个接口**，订单状态机、Token 鉴权、钱包流水与哈希存证
 - 🛒 独立完成青禾手机商城 Web 应用：**Flask + Jinja2**，购物车、结算、VIP 折扣、订单支付与库存扣减
 - 🗄️ 项目里用 MariaDB 存订单、钱包和流水，写过建表 SQL、事务和金额对账
 - 📝 开发和学习记录放在博客里：[zhongjiawei-dev.github.io/My-Blog](https://zhongjiawei-dev.github.io/My-Blog/)
@@ -52,7 +52,7 @@
 
 | 项目 | 说明 | 技术要点 |
 | :--- | :--- | :--- |
-| **[校园快递代取平台 · 后端服务](https://github.com/zhongjiawei-dev/campus-express-service)** | 独立开发的校园代取后端，覆盖下单、接单、配送、签收、评价与信用分流转；22 个接口、6 张表、订单节点写哈希存证 | Python · PyMySQL · MariaDB · 标准库 HTTP · 哈希链 |
+| **[校园快递代取平台 · 完整系统](https://github.com/zhongjiawei-dev/campus-express-service)** | 独立开发的校园代取系统，包含学生、骑手、管理员工作台，覆盖下单、接单、配送、签收、评价与信用分流转；22 个接口、6 张表、订单节点写哈希存证 | Python · PyMySQL · MariaDB · HTML/CSS/JS · 哈希链 |
 | **[青禾手机商城 · Web 应用](https://github.com/zhongjiawei-dev/phone-mall-system)** | 独立开发的手机商城，覆盖首页、搜索、详情、购物车、结算、订单、支付；Flask + Jinja2 服务端渲染，Decimal 金额计算 | Python · Flask · Jinja2 · HTML/CSS · Session |
 | **[My-Blog 个人博客](https://zhongjiawei-dev.github.io/My-Blog/)** | 手写 HTML/CSS/JS 的技术博客，记录接口测试、自动化与数据库核对过程 | 零构建依赖 · 暗色主题 · 响应式 · GitHub Pages |
 | **[zhongjiawei-dev（本仓库）](https://github.com/zhongjiawei-dev/zhongjiawei-dev)** | GitHub 个人主页，项目索引与技术笔记入口 | Markdown · GitHub Actions |
