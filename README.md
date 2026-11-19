@@ -18,8 +18,8 @@
 
 - 🔍 目前专注：**功能测试 · 接口测试 · 数据库验证 · Web 自动化**
 - 🎓 已取得 **信息处理技术员**（计算机技术与软件专业技术资格 · 初级），2025.05
-- 🧪 在校园快递代取平台设计过 **80+ 条用例**，用 Postman 校验 **22 个接口**
-- 🤖 用 **Python + Selenium + pytest + Allure** 搭过手机商城的 POM 分层 + YAML 数据驱动自动化，45 条用例通过率 95.6%
+- 🧱 独立完成校园快递代取平台后端：**22 个接口**、订单状态机、Token 鉴权、钱包流水与哈希存证
+- 🛒 独立完成青禾手机商城 Web 应用：**Flask + Jinja2**，购物车、结算、VIP 折扣、订单支付与库存扣减
 - 🗄️ 会用 MySQL 多表 JOIN 核对金额与流水，定位过「界面正常但数据不一致」的缺陷
 - 📝 把测试实践写在博客里：[zhongjiawei-dev.github.io/My-Blog](https://zhongjiawei-dev.github.io/My-Blog/)
 - 📫 联系方式：**15216200398@163.com**
@@ -53,8 +53,8 @@
 
 | 项目 | 说明 | 技术要点 |
 | :--- | :--- | :--- |
-| **[校园快递代取平台 · 接口与数据测试](https://github.com/zhongjiawei-dev/campus-express-test)** | 自己写的校园代取服务端，覆盖下单、接单、配送、签收、评价与信用分流转；22 个接口、113 条 pytest 用例，订单节点写哈希存证 | pytest · requests · Postman · MySQL 多表核对 · 哈希校验 |
-| **[手机商城系统 · UI 自动化](https://github.com/zhongjiawei-dev/phone-mall-selenium)** | Flask 练习站 + Selenium 自动化，覆盖登录、搜索、购物车、下单、支付 5 条链路；POM 分层、YAML 数据驱动、失败重跑与截图 | Python · Selenium · pytest · POM · Allure |
+| **[校园快递代取平台 · 后端服务](https://github.com/zhongjiawei-dev/campus-express-service)** | 独立开发的校园代取后端，覆盖下单、接单、配送、签收、评价与信用分流转；22 个接口、6 张表、订单节点写哈希存证 | Python · PyMySQL · MariaDB · 标准库 HTTP · 哈希链 |
+| **[青禾手机商城 · Web 应用](https://github.com/zhongjiawei-dev/phone-mall-system)** | 独立开发的手机商城，覆盖首页、搜索、详情、购物车、结算、订单、支付；Flask + Jinja2 服务端渲染，Decimal 金额计算 | Python · Flask · Jinja2 · HTML/CSS · Session |
 | **[My-Blog 个人博客](https://zhongjiawei-dev.github.io/My-Blog/)** | 手写 HTML/CSS/JS 的技术博客，记录接口测试、自动化与数据库核对过程 | 零构建依赖 · 暗色主题 · 响应式 · GitHub Pages |
 | **[zhongjiawei-dev（本仓库）](https://github.com/zhongjiawei-dev/zhongjiawei-dev)** | GitHub 个人主页，项目索引与技术笔记入口 | Markdown · GitHub Actions |
 
